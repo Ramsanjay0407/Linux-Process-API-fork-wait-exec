@@ -1,5 +1,5 @@
-# Name: Nijanth k
-# REG NO: 212224230186
+# Name: Ramsanjay C
+# REG NO: 212224220077
 
 # Linux-Process-API-fork-wait-exec-
 Ex02-Linux Process API-fork(), wait(), exec()
